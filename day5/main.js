@@ -63,5 +63,5 @@ class User {
   }
 }
 
-const u = new User("Name ekan");
+const u = new User("John Doe");
 u.greet();
